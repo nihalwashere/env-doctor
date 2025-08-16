@@ -1,5 +1,5 @@
 {
-  "name": "env-doctor",
+  "name": "env-doc",
   "version": "0.0.1",
   "description": "🧑‍⚕️ Env Doctor – ESLint + Prettier for your .env files. Diagnose, lint, and sync environment variables. Coming soon!",
   "keywords": [
