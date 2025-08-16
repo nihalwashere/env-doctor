@@ -1,0 +1,30 @@
+{
+  "name": "env-doctor",
+  "version": "0.0.1",
+  "description": "🧑‍⚕️ Env Doctor – ESLint + Prettier for your .env files. Diagnose, lint, and sync environment variables. Coming soon!",
+  "keywords": [
+    "env",
+    "dotenv",
+    "lint",
+    "sync",
+    "config",
+    "environment",
+    "variables",
+    "vscode",
+    "developer-tools"
+  ],
+  "author": {
+    "name": "Nihal Kaul",
+    "email": "nihal.codes@gmail.com",
+    "url": "https://nihalwashere.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nihalwashere/env-doctor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihalwashere/env-doctor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nihalwashere/env-doctor/issues"
+  }
+}
