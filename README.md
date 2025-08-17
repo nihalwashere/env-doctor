@@ -20,7 +20,7 @@ Expect initial releases soon with:
 ## 📦 Installation
 
 ```bash
-npm install -D env-doc
+npm install -D env-doctor
 ```
 
 🔮 CLI (coming soon)
