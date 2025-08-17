@@ -1,7 +1,7 @@
 {
-  "name": "env-doctor",
+  "name": "env-buddy",
   "version": "0.0.1",
-  "description": "🧑‍⚕️ Env Doctor – ESLint + Prettier for your .env files. Diagnose, lint, and sync environment variables. Coming soon!",
+  "description": "🧑‍⚕️ Env Buddy – ESLint + Prettier for your .env files. Diagnose, lint, and sync environment variables. Coming soon!",
   "keywords": [
     "env",
     "dotenv",
@@ -19,12 +19,12 @@
     "url": "https://nihalwashere.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/nihalwashere/env-doctor#readme",
+  "homepage": "https://github.com/nihalwashere/env-buddy#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nihalwashere/env-doctor.git"
+    "url": "git+https://github.com/nihalwashere/env-buddy.git"
   },
   "bugs": {
-    "url": "https://github.com/nihalwashere/env-doctor/issues"
+    "url": "https://github.com/nihalwashere/env-buddy/issues"
   }
 }

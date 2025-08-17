@@ -1,5 +1,5 @@
 console.log(`
-🧑‍⚕️ Env Doctor
+🧑‍⚕️ Env Buddy
 ----------------
 This package is under active development.
 

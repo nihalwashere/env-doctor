@@ -20,13 +20,13 @@ Expect initial releases soon with:
 ## 📦 Installation
 
 ```bash
-npm install -D env-doctor
+npm install -D env-buddy
 ```
 
 🔮 CLI (coming soon)
 
-npx env-doctor check
-npx env-doctor sync
+npx env-buddy check
+npx env-buddy sync
 
 📜 License
 
