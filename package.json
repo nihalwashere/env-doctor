@@ -1,7 +1,7 @@
 {
-  "name": "env-buddy",
+  "name": "envcave",
   "version": "0.0.1",
-  "description": "🧑‍⚕️ Env Buddy – ESLint + Prettier for your .env files. Diagnose, lint, and sync environment variables. Coming soon!",
+  "description": "🧑‍⚕️ Envcave – ESLint + Prettier for your .env files. Diagnose, lint, and sync environment variables. Coming soon!",
   "keywords": [
     "env",
     "dotenv",
@@ -19,12 +19,12 @@
     "url": "https://nihalwashere.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/nihalwashere/env-buddy#readme",
+  "homepage": "https://github.com/nihalwashere/envcave#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nihalwashere/env-buddy.git"
+    "url": "git+https://github.com/nihalwashere/envcave.git"
   },
   "bugs": {
-    "url": "https://github.com/nihalwashere/env-buddy/issues"
+    "url": "https://github.com/nihalwashere/envcave/issues"
   }
 }

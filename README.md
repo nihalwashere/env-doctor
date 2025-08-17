@@ -1,4 +1,4 @@
-# 🧑‍⚕️ Env Doctor
+# 🧑‍⚕️ Envcave
 
 **ESLint + Prettier for your environment files.**  
 Diagnose, lint, and sync your `.env` files — keep your config healthy across environments.
@@ -20,13 +20,13 @@ Expect initial releases soon with:
 ## 📦 Installation
 
 ```bash
-npm install -D env-buddy
+npm install -D envcave
 ```
 
 🔮 CLI (coming soon)
 
-npx env-buddy check
-npx env-buddy sync
+npx envcave check
+npx envcave sync
 
 📜 License
 
